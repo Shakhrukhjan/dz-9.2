@@ -1,7 +1,7 @@
 package card
 
 import (
-	"bank/pkg/bank/types"
+	"bank/pkg/bank/types" 
 )
 
 func PaymentSource(cards []types.Card) []types.PaymentSource {

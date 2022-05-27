@@ -18,6 +18,6 @@ type PaymentSource struct {
 }
 type Card struct {
 	PAN     string
-	Balance Money
+	Balance Money 
 	Active  bool
 }
